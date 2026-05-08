@@ -48,6 +48,9 @@ The driver script reads several pre-processed pickle files specific to the paper
 The fitted mixed-effects models are pandas objects with the columns `FixedEffects` and `RandomEffects`, 
 indexed by location. See `getBeta` in `simulationSumo.py` for the exact structure used.
 
+Access to the Linköping raw dataset is available upon request and subject to privacy regulations and ethical approval;
+the Wuppertal raw dataset is publicly available at: [doi.org/10.5281/zenodo.14391230](doi.org/10.5281/zenodo.14391230)
+
 ## Output
 
 For each model variant and location, two pickles are written:
