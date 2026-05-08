@@ -1,4 +1,4 @@
-# Microscopic simulation of free riding speed dynamics in bicycle traffic - Paper Companion Code
+# Microscopic simulation of free riding speed dynamics in bicycle traffic: Paper Companion Code
 
 This repository contains the simulation code used for the analysis reported in *[paper ref]*. 
 It is shared as a reference implementation of the free-riding models described in the paper.
