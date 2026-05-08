@@ -1,10 +1,10 @@
 # Microscopic simulation of free riding speed dynamics in bicycle traffic: Paper Companion Code
 
-This repository contains the simulation code used for the analysis reported in *[paper ref]*. 
-It is shared as a reference implementation of the free-riding models described in the paper.
+This repository contains the simulation code used for the analysis of free riding reported in:
+> *Pérez Castro, G., Belikhov, D., Johansson, F., Kaths, H., and Olstam, J. 2026. “Microscopic simulation of free riding speed dynamics in bicycle traffic: modeling heterogeneous context-dependent effects”. Under review for publication in PLOS One.*
 
 The code is tied to the specific datasets, networks, and study sites (Linköping, SE and Wuppertal, DE).
-It is published to make the modelling choices, the SUMO/TraCI integration, and the implementation details available 
+It is published to make the modelling choices, the SUMO/TraCI integration, and the model implementation details available 
 for readers of the paper.
 
 ## Contents
@@ -56,9 +56,3 @@ the Wuppertal raw dataset is publicly available at: [doi.org/10.5281/zenodo.1439
 For each model variant and location, two pickles are written:
 - `SimData_<Location>.pkl` — full trajectory (time, position, speed, acceleration, power, kinetic energy, and route features).
 - `SimDuration_<Location>.pkl` — simulation duration per bicyclist.
-
-## Citation
-
-If you refer to this code, please cite the paper:
-
-> *[full citation, DOI]*
