@@ -1,9 +1,9 @@
-# Microscopic simulation of free riding speed dynamics in bicycle traffic: Paper Companion Code
+# Microscopic simulation of free riding speed dynamics in bicycle traffic: Supplementary code
 
-This repository contains the simulation code used for the analysis of free riding reported in:
+This repository contains the simulation code for:
 > *Pérez Castro, G., Belikhov, D., Johansson, F., Kaths, H., and Olstam, J. 2026. “Microscopic simulation of free riding speed dynamics in bicycle traffic: modeling heterogeneous context-dependent effects”. Under review for publication in PLOS One.*
 
-The code is tied to the specific datasets, networks, and study sites (Linköping, SE and Wuppertal, DE).
+The code is tied to the specific datasets, networks, and study sites in the paper. 
 It is published to make the modelling choices, the SUMO/TraCI integration, and the model implementation details available 
 for readers of the paper.
 
